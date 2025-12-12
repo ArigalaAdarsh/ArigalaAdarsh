@@ -1,6 +1,6 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Arigala Adarsh</h1>
-<h3 align="center">Data Science & Machine Learning Enthusiast | Exploring State-of-the-Art Models</h3>
+<h3 align="center">Speech and Audio AI Engineer | Exploring State-of-the-Art Models</h3>
 <img align="right" alt="AI" width="400" src="https://img.freepik.com/premium-photo/man-is-working-computer-with-screen-showing-graph_910054-3561.jpg">
 
 - 🔭 I’m currently working as a Project Associate at Spring Lab, IIT Madras **Text to Speech(TTS)** & **Speech to Speech Translation(STS)** for low resource languages.
