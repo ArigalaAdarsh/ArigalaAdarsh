@@ -3,9 +3,8 @@
 <h3 align="center">Data Science & Machine Learning Enthusiast | Exploring State-of-the-Art Models</h3>
 <img align="right" alt="AI" width="400" src="https://img.freepik.com/premium-photo/man-is-working-computer-with-screen-showing-graph_910054-3561.jpg">
 
-- 🔭 I’m currently working as a Research Intern in IIT Hyderabad **Audio tagging**, **Sound Event Detection**, and **Robot Operating System**.
-
-- 🌱 I’m currently learning **Datascience**
+- 🔭 I’m currently working as a Project Associate at Spring Lab, IIT Madras **Text to Speech(TTS)** & **Speech to Speech Translation(STS)** for low resource languages.
+- 🌱 I’m currently looking for MS and PhD Roles
 
 - 👨‍💻 Know about my experiences at [Portfolio](https://arigalaadarsh.github.io/protfolio/)
 
